@@ -1,0 +1,5 @@
+Honda,civic,4X4,12,5886,5000000
+Toyota,Grandy,luxury,25,592592515,8000000
+BMW,i7,premium,23,592592509,80000000
+Honda,civic,car,45,59259182,6000000
+Honda,Civic,car,76,6004,6000000
